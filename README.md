@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mugsee10's info
+## index.html
 
-<!--
-**Mugsee10/Mugsee10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**<!DOCTYPE html>**
 
-Here are some ideas to get you started:
+**<h1>💻 I'm a web developer<h1>**
+**<p> 📁 Front and backend<p>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## script.js
+
+**console.log(" 🗝️ Obviously i know js and even ts")**
+
+## main.py
+
+**print(" ⚡ I put my socks on with python")**
+
+## limoncraft.java
+
+**system.out.println(" 🍋 Limoncraft -- Manager")**
