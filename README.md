@@ -3,8 +3,8 @@
 
 **<!DOCTYPE html>**
 
-**<h1>💻 I'm a web developer<h1>**
-**< p > 📁 Front and backend<p>**
+**< h1 >💻 I'm a web developer< h1 >**
+**< p > 📁 Front and backend< p >**
 
 ## script.js
 
