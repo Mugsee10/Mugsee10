@@ -3,7 +3,7 @@
 
 **<!DOCTYPE html>**
 
-**< h1 >💻 I'm a web developer< h1 >**\n
+**< h1 >💻 I'm a web developer< h1 >**       
 **< p > 📁 Front and backend< p >**
 
 ## script.js
