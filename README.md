@@ -4,7 +4,7 @@
 **<!DOCTYPE html>**
 
 **<h1>💻 I'm a web developer<h1>**
-**<p> 📁 Front and backend<p>**
+**< p > 📁 Front and backend<p>**
 
 ## script.js
 
